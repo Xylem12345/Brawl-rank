@@ -1,0 +1,2 @@
+# Brawl-rank
+Rank counter
